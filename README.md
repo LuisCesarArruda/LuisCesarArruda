@@ -42,6 +42,5 @@ Currently focusing on:
 
 ## 📫 How to reach me
 
-- 📧 Email: lc.albuquerque@outlook.com 
 - 💼 LinkedIn: linkedin.com/in/lcarruda
 
