@@ -15,6 +15,7 @@ I'm a junior developer actively looking for a position in software development.
 
 My goal is to grow as a developer and contribute to meaningful projects while learning from experienced teams.
 
+
 ## ⚡ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,11 +29,13 @@ My goal is to grow as a developer and contribute to meaningful projects while le
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCesarArruda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCesarArruda&layout=compact&theme=radical)
+
 Currently focusing on:
 
 - Building apps using **Node.js, TypeScript, PostgreSQL, Fastify and React**  
 - Learning more about **Clean Code,Testing with Jest, DevOps, Docker, AWS Cloud and Design Pattern**
-
 ## 🌍 Languages
 
 - 🇧🇷 Portuguese: Native  
